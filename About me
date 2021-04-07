@@ -1,0 +1,15 @@
+<html>
+  <body>
+    <div style="background-color:#FF3364; height:250px; margin:0px;">
+      <p style="font-size:100px; color:white; text-align:center; padding-top:60px;">
+        Anishka's Portfolio 
+      </p>
+      </div>
+    <div style="background-color:pink;">
+        <button style="background-color:white; height:80px; width:24.8%;margin:0px; border:4px solid pink;font-size:18px; color:#FF3364;"> About me </button>
+        <button style="background-color:white; height:80px; width:24.6%;margin:0px; border:4px solid pink;font-size:18px;color:#FF3364;"> Academics </button>
+        <button style="background-color:white; height:80px; width:24.6%;margin:0px; border:4px solid pink; font-size:18px;color:#FF3364;">Extra-curriculars</button>
+        <button style="background-color:white; height:80px; width:24.6%;margin:0px; border:4px solid pink;font-size:18px;color:#FF3364;"> Interests </button>
+    </div>
+  </body>
+</html>
